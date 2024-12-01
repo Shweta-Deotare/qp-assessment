@@ -1,0 +1,33 @@
+# Node.js dependencies
+node_modules/
+
+# Build output directories
+dist/
+build/
+
+# Logs
+*.log
+
+# Environment variables
+.env
+
+# IDE/editor specific files
+.vscode/
+.idea/
+
+
+# Windows files
+Thumbs.db
+
+# TypeScript build info
+*.tsbuildinfo
+
+# Test coverage reports
+coverage/
+
+# npm and Yarn cache
+.npm/
+.yarn/
+
+# Docker
+.dockerignore
